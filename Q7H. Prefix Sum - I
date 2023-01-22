@@ -1,0 +1,15 @@
+Q1. Prefix Sum - I
+
+Given the prefix sum of an array, prefSum = [-2, 4, 1, 5, 2]
+
+What is the sum of the original array from index 0 to 2 (0-based) ?
+
+Choose the correct answer from below:
+A) 3
+B) 4
+C) 1
+D) 5
+
+Ans: C) 1
+Explaination : The original array is [-2, 6, -3, 4, -3].
+The sum in the range [0, 2] is 1.
